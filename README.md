@@ -1,4 +1,6 @@
 # PotatoMachine_CPU
+(Detailed Breakdown on my Portfolio)
+
 Unpipelined, Non-Forwarding Basic "Potato Machine" CPU.
 Only handles sequential instructions.
 
