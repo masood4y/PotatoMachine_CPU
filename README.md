@@ -6,14 +6,14 @@ Only handles sequential instructions.
 
 
 Componenets List: 
-alu.sv
-controller.sv
-datapath.sv
-idecoder.sv
-multi_bit_regs.sv
-ram.sv   // GIVEN TO ME 
-regfile.sv   // GIVEN TO ME 
-shifter.sv 
+- alu.sv
+- controller.sv
+- datapath.sv
+- idecoder.sv
+- multi_bit_regs.sv
+- ram.sv (Given to me) 
+- regfile.sv (Given to me) 
+- shifter.sv 
 
 
 CPU.sv is the connection interface of all the components
